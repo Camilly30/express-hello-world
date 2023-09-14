@@ -46,8 +46,8 @@ const html = `
         color:black;
       }
       body {
-        background-color: blue;
         opacity: 0.3;
+        color:black;
       }
       section {
         border-radius: 1em;
