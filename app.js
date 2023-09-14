@@ -45,7 +45,7 @@ const html = `
         font-size: calc(62rem / 16);
       }
       body {
-        background: blue;
+        background-color: blue;
         opacity: 0.3;
       }
       section {
