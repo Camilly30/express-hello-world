@@ -45,7 +45,8 @@ const html = `
         font-size: calc(62rem / 16);
       }
       body {
-        background: #000000 url("RPG_40_Obiwan_Kenobi_3.jpg") no-repeat center center fixed;
+        background: blue;
+        opacity: 0.3;
       }
       section {
         border-radius: 1em;
@@ -55,12 +56,18 @@ const html = `
         left: 50%;
         margin-right: -50%;
         transform: translate(-50%, -50%);
+      },
+      .obi img{
+        border-radius:50%;
       }
     </style>
   </head>
   <body>
     <section>
       Hello There!!!
+      <div class="obi">
+      <img src="RPG_40_Obiwan_Kenobi_3.jpg"/>
+      </div>
     </section>
   </body>
 </html>
