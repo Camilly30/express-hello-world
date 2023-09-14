@@ -43,9 +43,10 @@ const html = `
         font-family:  monospace;
         font-weight: 700;
         font-size: calc(62rem / 16);
+        color:black;
       }
       body {
-        background: blue;
+        background-color: blue;
         opacity: 0.3;
       }
       section {
