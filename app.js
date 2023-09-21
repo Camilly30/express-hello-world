@@ -46,7 +46,6 @@ const html = `
         color:black;
       }
       body {
-        opacity: 0.3;
         color:black;
       }
       section {
@@ -67,7 +66,7 @@ const html = `
     <section>
       Hello There!!!
       <div class="obi">
-      <img src="RPG_40_Obiwan_Kenobi_3.jpg"/>
+      <img src="RPG_40_Obiwan_Kenobi_3.jpg" alt="obiwan"/>
       </div>
     </section>
   </body>
