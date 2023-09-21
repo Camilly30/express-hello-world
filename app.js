@@ -67,7 +67,7 @@ const html = `
       Hello There!!!
     </section>
     <div class="obi">
-      <img src="RPG_40_Obiwan_Kenobi_3.jpg" alt="obiwan"/>
+      <img src="./RPG_40_Obiwan_Kenobi_3.jpg" alt="obiwan"/>
       </div>
   </body>
 </html>
