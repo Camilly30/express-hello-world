@@ -12,7 +12,7 @@ app.get('/req', (req, res) => {
     res.send('Yo!')
 })
 
-app.listen(port, () => console.log(`Example app listening on port ${port}!`));
+app.listen(port, () => console.log(`Exemplo rodando locamente na porta ${port}!`));
 
 
 const html = `
@@ -65,10 +65,10 @@ const html = `
   <body>
     <section>
       Hello There!!!
-      <div class="obi">
+    </section>
+    <div class="obi">
       <img src="RPG_40_Obiwan_Kenobi_3.jpg" alt="obiwan"/>
       </div>
-    </section>
   </body>
 </html>
 `
